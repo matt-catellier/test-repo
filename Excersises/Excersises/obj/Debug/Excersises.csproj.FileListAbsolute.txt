@@ -1,0 +1,6 @@
+H:\MyCourses\SSDP1501\InClass1\Excersises\Excersises\bin\Debug\Excersises.exe.config
+H:\MyCourses\SSDP1501\InClass1\Excersises\Excersises\bin\Debug\Excersises.exe
+H:\MyCourses\SSDP1501\InClass1\Excersises\Excersises\bin\Debug\Excersises.pdb
+H:\MyCourses\SSDP1501\InClass1\Excersises\Excersises\obj\Debug\Excersises.csprojResolveAssemblyReference.cache
+H:\MyCourses\SSDP1501\InClass1\Excersises\Excersises\obj\Debug\Excersises.exe
+H:\MyCourses\SSDP1501\InClass1\Excersises\Excersises\obj\Debug\Excersises.pdb
